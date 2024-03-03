@@ -1,5 +1,7 @@
 # cool-particles
 
+Uses the Bevy Game Engine
+
 Taking inspiration from:
 
 - https://www.youtube.com/watch?v=81GQNPJip2Y&list=PLPiMlUuvmixC-R-5DXE6k2P6FdKn71JGY
